@@ -1,7 +1,5 @@
 # SPEI
-Shape proportion and encircled image-histogram code.  Shape proportion and encircled image-histogram code. 
-Requires code from "Image Operators: Image Processing in Python" by Dr. Jason M. Kinser.
-Specifically, it needs mgcreate's Plop function.  
+Shape proportion and encircled image-histogram code.  Requires code from "Image Operators: Image Processing in Python" by Dr. Jason M. Kinser.  Specifically, it needs mgcreate's Plop function.  
 
 
 ## convert.py 
